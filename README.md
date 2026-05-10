@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/anmone-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Anmone 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/anmone-2/) |
+| **Get License** | [Commercial Licensing for Anmone 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/anmone-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচিন মেঘের আড়ালে খুঁজি অজানা এক তারা
+> তোমার ছায়ার পরশ পেলে হবো যে বাঁধনহারা
+> গহীন বুকের স্পন্দনে বাজে অন্য রকম সুর
+> তোমার নেশায় মাতাল হৃদয় হয়ে যায় যে চুর
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
