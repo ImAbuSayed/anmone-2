@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Anmone 2
+
+This log tracks the cryptographic history and versioning for the song **Anmone 2** (anmone-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T04:09:09.553314 | `v1` | `2bc42262e62c9e5b7bf76845318c4c4aaa83ca182a65b99f87440a78d29c4761` | `3f66d218b5ae82fe78ee7b1d47b05a31c0af4f3490cdef5eba96126eb60dffee` | `2026-05-11_anmone-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
